@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc2f4376-0834-4ace-b336-61d1b981cbb3" name="Changes" comment="3. Works Again">
-      <change afterPath="$PROJECT_DIR$/sdk/src/main/kotlin/com/changeworld/AwesomeSdkLogger.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdk/src/main/kotlin/com/changeworld/AwesomeSdk.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sdk/src/main/kotlin/com/changeworld/AwesomeSdk.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sdk/src/main/kotlin/com/changeworld/CredentialsManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sdk/src/main/kotlin/com/changeworld/CredentialsManager.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdk/src/main/kotlin/com/changeworld/Modules.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sdk/src/main/kotlin/com/changeworld/Modules.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +35,14 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "11"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.changeworld.Main" />
@@ -77,7 +74,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.MainKt" />
-        <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>

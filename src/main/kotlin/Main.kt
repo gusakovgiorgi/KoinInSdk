@@ -1,9 +1,12 @@
 import com.changeworld.AwesomeSdk
-import com.changeworld.CredentialsStorage
-import org.koin.core.context.startKoin
-import org.koin.dsl.module
+import com.changeworld.AwesomeSdkLogger
 
-fun main(args: Array<String>) {
+fun main() {
+    AwesomeSdk.init(object : AwesomeSdkLogger {
+        override fun log(message: String) {
+            println(message)
+        }
+    })
     val credentialsManager = AwesomeSdk.getCredentialsManager()
 
     println("Saving login and password")
