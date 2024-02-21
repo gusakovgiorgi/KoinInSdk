@@ -14,6 +14,8 @@ repositories {
 
 dependencies {
     implementation(project("::sdk"))
+    implementation( platform("io.insert-koin:koin-bom:3.5.3"))
+    implementation("io.insert-koin:koin-core")
 }
 
 tasks.test {
