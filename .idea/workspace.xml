@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc2f4376-0834-4ace-b336-61d1b981cbb3" name="Changes" comment="2. The code breaks" />
+    <list default="true" id="dc2f4376-0834-4ace-b336-61d1b981cbb3" name="Changes" comment="3. Works Again">
+      <change afterPath="$PROJECT_DIR$/sdk/src/main/kotlin/com/changeworld/AwesomeSdkLogger.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdk/src/main/kotlin/com/changeworld/AwesomeSdk.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sdk/src/main/kotlin/com/changeworld/AwesomeSdk.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdk/src/main/kotlin/com/changeworld/CredentialsManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sdk/src/main/kotlin/com/changeworld/CredentialsManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdk/src/main/kotlin/com/changeworld/Modules.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sdk/src/main/kotlin/com/changeworld/Modules.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +24,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Interface" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
       </list>
     </option>
   </component>
@@ -109,12 +115,29 @@
       <option name="project" value="LOCAL" />
       <updated>1708555199832</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3. Works Again">
+      <option name="closed" value="true" />
+      <created>1708555486542</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708555486542</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3. Works Again">
+      <option name="closed" value="true" />
+      <created>1708555512865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708555512865</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Case 1. Everything works" />
     <MESSAGE value="2. The code breaks" />
-    <option name="LAST_COMMIT_MESSAGE" value="2. The code breaks" />
+    <MESSAGE value="3. Works Again" />
+    <option name="LAST_COMMIT_MESSAGE" value="3. Works Again" />
   </component>
 </project>
