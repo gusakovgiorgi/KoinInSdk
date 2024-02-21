@@ -4,13 +4,6 @@ import org.koin.core.context.startKoin
 import org.koin.dsl.module
 
 fun main(args: Array<String>) {
-    startKoin {
-        modules(module {
-            single {
-                "My custom string dependency"
-            }
-        })
-    }
     val credentialsManager = AwesomeSdk.getCredentialsManager()
 
     println("Saving login and password")
